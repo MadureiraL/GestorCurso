@@ -1,0 +1,14 @@
+C:\Users\Levi\Documents\Estudo\GestorCurso\bin\Debug\net8.0\GestorCurso.exe
+C:\Users\Levi\Documents\Estudo\GestorCurso\bin\Debug\net8.0\GestorCurso.deps.json
+C:\Users\Levi\Documents\Estudo\GestorCurso\bin\Debug\net8.0\GestorCurso.runtimeconfig.json
+C:\Users\Levi\Documents\Estudo\GestorCurso\bin\Debug\net8.0\GestorCurso.dll
+C:\Users\Levi\Documents\Estudo\GestorCurso\bin\Debug\net8.0\GestorCurso.pdb
+C:\Users\Levi\Documents\Estudo\GestorCurso\obj\Debug\net8.0\GestorCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levi\Documents\Estudo\GestorCurso\obj\Debug\net8.0\GestorCurso.AssemblyInfoInputs.cache
+C:\Users\Levi\Documents\Estudo\GestorCurso\obj\Debug\net8.0\GestorCurso.AssemblyInfo.cs
+C:\Users\Levi\Documents\Estudo\GestorCurso\obj\Debug\net8.0\GestorCurso.csproj.CoreCompileInputs.cache
+C:\Users\Levi\Documents\Estudo\GestorCurso\obj\Debug\net8.0\GestorCurso.dll
+C:\Users\Levi\Documents\Estudo\GestorCurso\obj\Debug\net8.0\refint\GestorCurso.dll
+C:\Users\Levi\Documents\Estudo\GestorCurso\obj\Debug\net8.0\GestorCurso.pdb
+C:\Users\Levi\Documents\Estudo\GestorCurso\obj\Debug\net8.0\GestorCurso.genruntimeconfig.cache
+C:\Users\Levi\Documents\Estudo\GestorCurso\obj\Debug\net8.0\ref\GestorCurso.dll
